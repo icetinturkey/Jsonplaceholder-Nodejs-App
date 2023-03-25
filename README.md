@@ -11,5 +11,5 @@ If you are not part of this bootcamp, you can ignore this repo.
 ## How to use ?
 
 1) Download all files and use `npm i` command;
-2) Set user id number in app.js file.
+2) Set user id number in index.js file.
 3) Start app with `npm start`

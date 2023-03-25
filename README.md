@@ -1,6 +1,6 @@
 ## Preview;
 
-![Image](https://download.vadi.info/fmss-first-assignment.png)
+# ![Image](https://download.vadi.info/fmss-first-assignment.png)
 
 A simple Javascript application that downloads the specified user's data and posts from the jsonplaceholder.
 
